@@ -1,0 +1,24 @@
+{
+  "MyName": "Yogyaa Varma",
+  "MyRole": "Frontend dev",
+  "projects": [
+    {
+      "title": "Bible Verse of the day",
+      "github_link": "https://github.com/Y0gyaa/RandomBibleVerseGeneratorAPI",
+      "description": "Random bible verse generator API.",
+      "image_path": "../../public/thumbnails/bibleApp.png"
+    },
+    {
+      "title": "Acadman",
+      "github_link": "https://github.com/Y0gyaa/acadman",
+      "description": "An app for sports academy managment",
+      "image_path": "../../public/thumbnails/acadman.png"
+    },
+    {
+      "title": "Marvel Hero Of The Day",
+      "github_link": "https://github.com/Y0gyaa/marvel_hero_of_the_day",
+      "description": "App shows random marvel hero of the day.",
+      "image_path": "../../public/thumbnails/mhero.jpg"
+    }
+  ]
+}

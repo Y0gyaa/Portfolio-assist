@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        bayon: ['Bayon', 'sans-serif'],
+        bangers: ['Bangers', 'cursive'], 
+      },
     },
   },
   plugins: [],
